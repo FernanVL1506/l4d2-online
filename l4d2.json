@@ -1,1 +1,14 @@
-
+   {
+     "version": "1.0.0",
+     "parts": [
+       "https://github.com/FernanVL1506/mijuego/releases/download/1.0.0/L4D2.zip.001",
+       "https://github.com/FernanVL1506/mijuego/releases/download/1.0.0/L4D2.zip.002",
+       "https://github.com/FernanVL1506/mijuego/releases/download/1.0.0/L4D2.zip.003",
+       "https://github.com/FernanVL1506/mijuego/releases/download/1.0.0/L4D2.zip.004",
+       "https://github.com/FernanVL1506/mijuego/releases/download/1.0.0/L4D2.zip.005",
+       "https://github.com/FernanVL1506/mijuego/releases/download/1.0.0/L4D2.zip.006",
+     ],
+     "sha256": "a2ad85851abb78a8c26186d40015d6bb6ce4b3a7446945cc71be56aba70a418b",
+     "exe": "revLoader.exe",
+     "notes": "Primera versión"
+   }
